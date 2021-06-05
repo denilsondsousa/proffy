@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" src="proffy.svg" />
+    <img alt="Proffy" src="proffy.svg" width="100%"/>
     <br>Next Level Week #2<br/>
     Node.js | ReactJS | React Native
 </h1>
