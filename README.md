@@ -37,7 +37,7 @@ O Proffy é uma plataforma de estudos online. Nessa aplicação temos 2 tipos de
 
 1. Faça um clone do repositório:
 ```sh
-  git clone https://github.com/denilsondsousa/Proffy-Plataforma-de-Estudos-Online.git
+  git clone https://github.com/denilsondsousa/proffy
 ```
 
 2. Para executar a aplicação:
@@ -46,7 +46,7 @@ O Proffy é uma plataforma de estudos online. Nessa aplicação temos 2 tipos de
   $cd server
   # Primeiro: instale as dependências do projeto
   $ yarn # ou npm install
-  # Segndo: Configure o banco de dados e as tabelas
+  # Segundo: Configure o banco de dados e as tabelas
   $ yarn knex:migrate # ou npm run knex:migrate
   
   # Inicializando a aplicação:
